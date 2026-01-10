@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.exe
+
+# Compiled binaries
+printfn_example
+test_printfn
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
